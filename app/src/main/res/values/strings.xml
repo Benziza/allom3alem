@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">allom3alem</string>
+    <string-array name="region_array">
+        <item>Oujda</item>
+        <item>Tanger</item>
+        <item>Fes</item>
+    </string-array>
+    <string-array name="ville_array">
+        <item>Nador</item>
+        <item>Berkane</item>
+        <item>Taza</item>
+    </string-array>
+    <string name="auth">Authentification</string>
+    <string name="conn">Se Connecter</string>
+    <string name="choix_region_ville">Choisissez votre région et votre ville</string>
+    <string name="rech">Rechercher</string>
+</resources>

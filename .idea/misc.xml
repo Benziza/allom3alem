@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/drawable/phone_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/activity_list_item_metier.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/activity_list_ouvrier.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/activity_list_ouvrier_client.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/activity_main2.xml" value="0.4" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/activity_mode_client_profil_ouvrier.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/activity_mode_ouvrier_profil_ouvrier.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/activity_modification_ouvrier.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/cree_compte_client.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/cree_compte_ouvrier.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/listemetiers.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/mode_normal_profil_ouvrier.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/popupauthentification.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/popupevaluation.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Acer Nitro 5/Desktop/Nouveau dossier/allom3alem/app/src/main/res/layout/sing_in.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

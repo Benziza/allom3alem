@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".ActivityListMetiers">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10sp"
+        android:columnCount="3"
+        android:padding="25sp"
+        android:rowCount="10"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <android.widget.Button
+            android:id="@+id/btnConstruction"
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/hammermini"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte5"
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/paint"
+            android:text="Peinture"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte24"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/plumbering"
+            android:text="Plomberie"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte14"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte224"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte434"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte2244"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte884"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte400"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte764"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte4899"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte4"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte4131"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte114"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte04"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+        <android.widget.Button
+            android:id="@+id/butte004"
+
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:layout_margin="5sp"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/excavator"
+            android:text="Construction"
+            android:textSize="10sp" />
+
+
+    </GridLayout>
+
+</ScrollView>
